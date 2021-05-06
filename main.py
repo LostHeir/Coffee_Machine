@@ -90,7 +90,7 @@ while not turn_off:
         make_coffee("espresso")
     elif user_input == "latte":
         make_coffee("latte")
-    elif user_input == "cappuccino:":
+    elif user_input == "cappuccino":
         make_coffee("cappuccino")
     else:
         print("Sorry we don't have it in our Menu..")
